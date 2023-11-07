@@ -1,5 +1,6 @@
 # JavaScript-1---CRUD-using-Array-of-Object
 ...
+
 let dataArray = [];
 function addData(name, age, city) {
   const newData = { name, age, city };
