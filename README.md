@@ -1,6 +1,5 @@
 # JavaScript-1---CRUD-using-Array-of-Object
-...
-
+```
 let dataArray = [];
 function addData(name, age, city) {
   const newData = { name, age, city };
@@ -42,9 +41,6 @@ showData();
 
 deleteData(1);
 showData();
-
-
-
-...
+```
 # output
 ![image](https://github.com/dhinesh102004/JavaScript-1---CRUD-using-Array-of-Object/assets/142372008/a5429abb-8347-45fe-83ef-1d9c04029174)
